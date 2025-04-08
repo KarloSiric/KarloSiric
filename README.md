@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Karlo Siric 👋
 
-<!--
-**KarloSiric/KarloSiric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at RIT Croatia, passionate about embedded systems and low-level programming. I'm fascinated by how things work under the hood and enjoy building software from first principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science at RIT Croatia
+- 💻 Focused on C programming and systems development
+- 🔍 Interested in operating systems, compilers, and embedded systems
+- 🌱 Currently exploring the internals of Unix-like systems
+
+## 🛠️ My C Programming Journey
+
+I'm building a series of projects to deepen my understanding of systems programming and C:
+
+### Current Projects:
+
+- **Custom Shell Implementation** - Building a Unix-like shell from scratch
+- **MyPrintf** - Recreating the printf function to understand formatted output
+- **Wordcount** - A utility similar to Unix 'wc' command
+
+### Upcoming Projects:
+
+- **HTTP Server** - A basic HTTP server implemented in C
+- **SQLite Clone** - A lightweight database engine
+- **Unix Utilities** - Implementing core Unix commands
+- **Text Editor** - A terminal-based text editor
+
+## 🔗 Connect With Me
+
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 🌐 Personal website: [Coming Soon](https://claude.ai/chat/e25c54ea-a5d8-4021-a453-ca4f9b4eed12#) - Building with Hugo
+
+------
+
+> "Understanding the fundamentals deeply is the key to building robust systems."
+
+Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or chat about low-level programming!
