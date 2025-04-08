@@ -28,7 +28,7 @@ I'm building a series of projects to deepen my understanding of systems programm
 
 ## 🔗 Connect With Me
 
-- 📫 How to reach me: [email@example.com](mailto:ksiric99@gmail.com)(mailto:ks9700@g.rit.edu)
+- 📫 How to reach me: [email@example.com](ksiric99@gmail.com)(ks9700@g.rit.edu)
 - 🌐 Personal website: [Coming Soon](https://claude.ai/chat/e25c54ea-a5d8-4021-a453-ca4f9b4eed12#) - Building with Hugo
 
 ------
